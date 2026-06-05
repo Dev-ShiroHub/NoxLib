@@ -1,4 +1,4 @@
-local NoxLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/USERNAME/REPO/main/NoxLib.lua"))()
+local NoxLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/Dev-ShiroHub/NoxLib/refs/heads/main/NoxLib.lua"))()
 
 local Window = NoxLib:CreateWindow({
 	Title = "Nox Hub",
