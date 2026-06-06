@@ -9,6 +9,18 @@ Copyright, 2026 RkpyDevelopment Team™
 Owner of RkpyDevelopment Team,
 TheRkpyYT.
 
+//---------------------------------------//
+
 ## Update 1.1:
 
-* Button has fixed. 
+* Button has fixed.
+* UI has updated and fixed.
+* and others still ok like before.
+
+//---------------------------------------//
+
+## Update 2.0:
+
+* ## Coming Soon!
+
+//---------------------------------------//
