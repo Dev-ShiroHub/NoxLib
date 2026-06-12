@@ -25,24 +25,5 @@ TheRkpyYT.
 
 ## Update 2.0:
 
-* Added functional Return API (`Set`, `Get`, `Refresh`, `SetText`) for real-time external script interaction.
-* Added hover transition effects on all interactive elements.
-* Fixed memory leaks by optimizing instance creation loops.
-* Fixed responsive scaling across multiple device frame rates.
-
-//---------------------------------------//
-
-## Update 3.0:
-
-* Complete code overhaul reaching 100% full feature capabilities.
-* Re-designed core framework with clean, optimized looping mechanics.
-* Upgraded Dropdown element with internal custom ScrollingFrame boundaries.
-* Synchronized global runtime tweens for ultimate loading speed.
-
-//---------------------------------------//
-
-## Update 4.0:
-
 * ## Coming Soon!
 
-//---------------------------------------//
